@@ -1,0 +1,8 @@
+//@version=5
+// Author: Akash Sasikumar
+// Copyright: 2023.Akash sasikumar
+
+indicator(title="Trading Volume", shorttitle="Volume", overlay=false)
+
+volume_value = volume
+plot(volume_value, title="Volume", color=color.blue)
