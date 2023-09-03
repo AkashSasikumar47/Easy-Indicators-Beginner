@@ -1,22 +1,23 @@
-# Easy-Indicators-Beginner
+<div align="center">
+  <h1>📈 Easy-Indicators-Beginner</h1>
+  <p>Welcome to the Easy-Indicators-Beginner repository! This collection of beginner-friendly technical indicators is designed to assist traders and stock market enthusiasts in understanding market trends and making informed decisions. These indicators are coded in Pine Script and are compatible with the TradingView platform.</p>
+</div>
 
-Welcome to the Easy-Indicators-Beginner repository! This collection of beginner-friendly technical indicators is designed to assist traders and stock market enthusiasts in understanding market trends and making informed decisions. These indicators are coded in Pine Script and are compatible with the TradingView platform.
-
-## Why Technical Indicators Matter?
+## 📊 Why Technical Indicators Matter?
 
 Technical indicators play a pivotal role in the stock market and trading by providing valuable insights into price trends, momentum, volatility, and potential reversal points. They help traders analyze historical price data and predict potential future price movements, enhancing their decision-making process.
 
-## Indicators Included
+## 📈 Indicators Included
 
 The following indicators are included in this repository:
 
-- Trading Volume
-- Simple Moving Averages (SMA)
-- Exponential Moving Average (EMA)
-- Relative Strength Index (RSI)
-- Stochastic Oscillator
+- 📊 Trading Volume
+- 📈 Simple Moving Averages (SMA)
+- 📈 Exponential Moving Average (EMA)
+- 📉 Relative Strength Index (RSI)
+- 🔄 Stochastic Oscillator
 
-## Indicator Descriptions
+## 📋 Indicator Descriptions
 
 1. **Trading Volume:**
    ![Trading Volume](images/volume_chart.png)
@@ -38,7 +39,7 @@ The following indicators are included in this repository:
    ![Stochastic Oscillator](images/stochastic_chart.png)
    The Stochastic Oscillator helps identify potential overbought and oversold conditions with two lines (%K and %D).
 
-## Usage and Instructions
+## 🚀 Usage and Instructions
 
 To use these indicators:
 1. Open the TradingView Pine Script editor.
