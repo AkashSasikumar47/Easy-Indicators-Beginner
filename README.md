@@ -37,7 +37,7 @@ The following indicators are included in this repository:
 This indicator shows the number of shares or contracts traded over a given period. High volume can indicate increased interest in a security.
 
 **Use Case:**
-- **Confirmation of Trends:** Trading volume can be used to confirm the strength of a trend. If prices are rising with high volume, it suggests strong buying interest, while falling prices with high volume indicate strong selling interest.
+Trading volume can be used to confirm the strength of a trend. If prices are rising with high volume, it suggests strong buying interest, while falling prices with high volume indicate strong selling interest.
 
 **How to Use:**
 To use the Trading Volume indicator, follow these steps:
@@ -51,7 +51,7 @@ To use the Trading Volume indicator, follow these steps:
 The Simple Moving Average calculates the average price over a specific number of periods.
 
 **Use Case:**
-- **Trend Identification:** SMA helps in identifying trends in the price data. When the price is above the SMA, it suggests an uptrend, and when below, it suggests a downtrend.
+SMA helps in identifying trends in the price data. When the price is above the SMA, it suggests an uptrend, and when below, it suggests a downtrend.
 
 **How to Use:**
 To use the Simple Moving Average indicator, follow these steps:
@@ -68,7 +68,7 @@ To use the Simple Moving Average indicator, follow these steps:
 Similar to SMA, EMA gives more weight to recent prices, making it more responsive to current market conditions.
 
 **Use Case:**
-- **Quick Response to Price Changes:** EMA reacts more quickly to recent price changes, making it suitable for traders looking for signals in fast-moving markets.
+EMA reacts more quickly to recent price changes, making it suitable for traders looking for signals in fast-moving markets.
 
 **How to Use:**
 To use the Exponential Moving Average indicator, follow these steps:
@@ -85,7 +85,7 @@ To use the Exponential Moving Average indicator, follow these steps:
 RSI measures the speed and change of price movements. Values above 70 may indicate overbought conditions, while values below 30 may indicate oversold conditions.
 
 **Use Case:**
-- **Overbought and Oversold Conditions:** RSI helps identify potential reversal points when an asset is overbought or oversold.
+RSI helps identify potential reversal points when an asset is overbought or oversold.
 
 **How to Use:**
 To use the Relative Strength Index indicator, follow these steps:
@@ -100,7 +100,7 @@ To use the Relative Strength Index indicator, follow these steps:
 The Stochastic Oscillator helps identify potential overbought and oversold conditions with two lines (%K and %D).
 
 **Use Case:**
-- **Overbought and Oversold Conditions Confirmation:** Stochastic Oscillator confirms potential reversal points identified by other indicators.
+Stochastic Oscillator confirms potential reversal points identified by other indicators.
 
 **How to Use:**
 To use the Stochastic Oscillator, follow these steps:
