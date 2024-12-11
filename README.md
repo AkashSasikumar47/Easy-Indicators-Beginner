@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>📈 Easy-Indicators-Beginner</h1>
+<div>
+  <h1>📈 Easy Indicators Beginner</h1>
   <p>Welcome to the Easy-Indicators-Beginner repository! This collection of beginner-friendly technical indicators is designed to assist traders and stock market enthusiasts in understanding market trends and making informed decisions. These indicators are coded in Pine Script and are compatible with the TradingView platform.</p>
 </div>
 
